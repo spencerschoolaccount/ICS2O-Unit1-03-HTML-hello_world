@@ -1,0 +1,20 @@
+body
+{
+  background-color: LightBlue;
+  padding: 10px
+}
+
+#mainHeader
+{
+  text-align: center; 
+  background-color: orange;
+  color: green;
+  padding: 30px;
+  margin-top: 0px;
+}
+
+.subHeader
+{
+  background-color: magenta;
+  margin-top: 20px
+}
